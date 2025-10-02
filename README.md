@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @charu
-- 👀 I’m interested in SOFTware,HARDware integration 
+- 👋 Hi, I’m @charsm
+- 👀 I’m interested in SOFTware,HARDware integration
+- Building cool stuffs ON-LINE
 
 <!---
 charsmello23/charsmello23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
